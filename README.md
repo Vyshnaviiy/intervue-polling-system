@@ -7,4 +7,4 @@ The system uses React Context and Firebase Firestore to simulate a full-stack, r
 Bonus Features
 Real-time Chat Popup: Fully synchronized messaging between all active users.
 
-Teacher Controls: Ability for the Teacher to manage and remove active students.
+Teacher Controls: Ability for the Teacher to manage and remove active students...
