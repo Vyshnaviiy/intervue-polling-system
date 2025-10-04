@@ -16,7 +16,6 @@
     "react-dom": "^19.1.1"
   },
   "devDependencies": {
-    /* (rest of devDependencies stay the same, including gh-pages) */
     "@eslint/js": "^9.36.0",
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.1.9",
